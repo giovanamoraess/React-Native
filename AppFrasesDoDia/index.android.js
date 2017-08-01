@@ -66,4 +66,4 @@ const App = () => {
 };
 
 //Renderizar para o dispositivo
-AppRegistry.registerComponent('AppFrasesDoDia', () => App);
+AppRegistry.registerComponent('appFrasesDoDia', () => App);
